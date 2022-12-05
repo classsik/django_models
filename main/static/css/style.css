@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+label {
+    margin-bottom: 15px;
+}
+
+input, textarea {
+    margin-bottom: 30px;
+}
+
+button {
+    padding: 15px 30px;
+}
